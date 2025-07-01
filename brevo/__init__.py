@@ -4,7 +4,7 @@ import brevo_python
 class BrevoAPI:
     def __init__(self, api_key: str):
         configuration = brevo_python.Configuration()
-        configuration.api_key["api_key"] = api_key
+        configuration.api_key["api-key"] = api_key
 
         client = brevo_python.ApiClient(configuration)
 

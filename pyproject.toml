@@ -1,6 +1,6 @@
 [project]
 name = "brevo-api"
-version = "1.1.0"
+version = "1.1.1"
 description = "Python API Client for Brevo"
 readme = "README.md"
 requires-python = ">=3.8"

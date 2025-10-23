@@ -1,6 +1,6 @@
 [project]
 name = "brevo-api"
-version = "1.1.1"
+version = "1.2.0"
 description = "Python API Client for Brevo"
 readme = "README.md"
 requires-python = ">=3.8"
@@ -15,7 +15,7 @@ classifiers = [
 	"Topic :: Utilities"
 ]
 dependencies = [
-    "brevo-python>=1.1.2",
+    "brevo-python==1.2.0",
 ]
 
 [dependency-groups]
